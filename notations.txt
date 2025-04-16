@@ -1,0 +1,61 @@
+HTML NOTES
+<p> paragraph
+<h1>-<h6> shows header and based of which size the number (bigger number = smaller font)
+<b> or <strong> bold
+<pre> show exactly what is typed (including tabs) 
+<em> emphasized
+<i> italic
+<mark> marks text
+<del> line through text (delete)
+<ins> line under text (insert)
+<a href="*link*"> has a link and text between will be the text you can click on (a meaning address and href meaning hyperlink reference)
+target="_blank" can be added to <a> that redirects and opens a new tab
+target="blank" can be added to <a< that opens a previous tab that contains a link you clicked in the file
+<small> small text
+O<sub>2</sub> anything between sub will be smaller and under and right of the text before it (sub meaning subscript text)
+<sup> anything between sup will be smaller and above and right of the text before it (sup meaning superscript text)
+style="color: blue; background: black" sets text and background color
+
+<body> contains all elements in the document
+<form> is used to collect user input
+<html> is the root of the document
+<!DOCTYPE html> document type
+&yoursymbol; or &symbolid; is how you put symbols in the document
+title="*your text" is the text you see if you hover over an element if its located in the <body> tag
+title="*yout text" is the text you see in the tab if its located in the <head> tag
+<img src="image link"> places a photo from the link into the document (img meaning image and src meaning source)
+<br> means break
+
+<ul> unorganized list (bullet points)
+<ol> organized list (numbered)
+<li> list item 
+
+<dl> description list (tab after enter)
+<dt> definition and usage
+<dd> description details
+
+<head> for the metadata of your document (name, img etc)
+<link rel="icon" href="your icon"> for icon 
+
+<label> text for an input
+<input type="your type"> input type
+<input type="submit"> makes an input button
+value="your text" is the text for the input button
+
+<iframe> runs a window in the document
+style="border:none;" removes the border added to the iframe
+width="300" changes the width to 300
+height="300" changes the height to 300
+src="link you want to put into your iframe" the window in the iframe
+
+<div> sections to change stuff 
+style="color:yellow; background:brown" changes the all the text color to yellow and the background to brown in that div 
+
+<table> tag for making tables
+<tr> means table row
+<th> means table header
+<td> means table data
+____________________________________________________________________________________________________________________________________
+
+CSS NOTES
+<link rel="stylesheet" href="*your path"> for linking the css sheet to the html file 
