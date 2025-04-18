@@ -1,4 +1,18 @@
 /*jdfjdfjdfj*/
 body {
-    background-color: cyan;
+    background-color: cyan; /*changes the background color to green*/
+}
+
+p#hello{
+    color: white;
+    background-color: black;
+}
+
+#scream{
+    color:black;
+    background-color: white;
+}
+
+.idk{
+    color: purple;
 }
