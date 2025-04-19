@@ -40,7 +40,11 @@ title="*yout text" is the text you see in the tab if its located in the <head> t
 <label> text for an input
 <input type="your type"> input type
 <input type="submit"> makes an input button
-value="your text" is the text for the input button
+value="your text" is the text for the input button (for submit buttons)
+value="your text" is the value a checkbox has
+id="your text" is the id a specific element has
+class="your text" same as id but can select multiple elements
+for "id" links something with the specific element
 
 <iframe> runs a window in the document
 style="border:none;" removes the border added to the iframe
@@ -59,3 +63,5 @@ ________________________________________________________________________________
 
 CSS NOTES
 <link rel="stylesheet" href="*your path"> for linking the css sheet to the html file 
+# is used for selecting html ids
+. is used for selecting html classes
